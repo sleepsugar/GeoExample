@@ -21,4 +21,18 @@
 </ul>
 
 <h4>Демо</h4>
-<p>Демо сервиса доступно по адресу: https://drive.google.com/drive/folders/1q8_azRNGW7tYDi_TCZz7bNkXggjRYqBd?usp=sharing </p>
+<p>Ссылка на видеозаписи: https://drive.google.com/drive/folders/1q8_azRNGW7tYDi_TCZz7bNkXggjRYqBd?usp=sharing </p>
+<p>Для того чтобы запустить приложение, зайдите в настройки приложения и дайте все необходимые разрешения. Ссылка на apk-файл: </p>
+
+УСТАНОВКА
+------------
+Для запуска проекта вставьте свой api-ключ Google Maps
+~~~
+<meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${YOUR_MAPS_API_KEY}" />
+~~~
+
+
+
+
