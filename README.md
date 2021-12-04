@@ -33,6 +33,3 @@
             android:value="${YOUR_MAPS_API_KEY}" />
 ~~~
 
-
-
-
