@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Geo Hack</string>
+
+    <string name="title_activity_graph">Sensor Location</string>
+    <string name="okay">Okay</string>
+    <string name="title_activity_data_collection">CollectionActivity</string>
+    <string name="debug_tools">Debug Tools</string>
+
+</resources>
