@@ -26,7 +26,7 @@
 
 УСТАНОВКА
 ------------
-Для запуска проекта вставьте свой api-ключ Google Maps
+Для запуска проекта вставьте свой APIKEY Google Maps
 ~~~
 <meta-data
             android:name="com.google.android.geo.API_KEY"
